@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!--<h1 th:text="'Our notes: ' + ${note}"></h1>-->
+<div class="note-form">
+    <form action="find">
+        <button class="link-button" type="submit" style="background-color: chocolate; color: aliceblue;">Find by ID</button>
+        <input type="text" name="id" id="findNote" value="">
+    </form>
+    <br>
+
+    <form action="delete" method="post">
+        <button class="link-button" type="submit" style="background-color: blue; color: aliceblue;">Delete</button>
+        <input type="text" name="id" id="delteNote" value="">
+    </form>
+    <br>
+
+    <form action="create" method="post">
+        <button class="link-button" type="submit" style= "background-color: darkblue; color: aliceblue;">Create</button>
+        <input type="text" name="title" id="inputTitle" value="title">
+        <input type="text" name="content" id="inputContent" value="content">
+    </form>
+    <br>
+
+    <form action="update" method="post">
+        <button class="link-button" type="submit" style="background-color: brown; color: aliceblue;">Update</button>
+        <input type="text" name="id" id="oldId" value="Id">
+        <input type="text" name="title" id="updateTitle" value="title">
+        <input type="text" name="content" id="updateContent" value="content">
+    </form>
+    <br>
+    <a href="list">
+        <button>To List of Notes</button>
+    </a>
+
+
+
+
+
+
+
+</div>
+</body>
+</html>

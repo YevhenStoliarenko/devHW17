@@ -1,0 +1,18 @@
+
+d
+java:S2094"BRemove this empty class, write its code or make it an "interface".(°Ñüÿÿÿÿ8×¢¿˜’2
+}	java:S125"<This block of commented-out lines of code should be removed.(“ª”+8ò‰¿˜’2J$d77010b8-24f3-4642-9327-31965f0ee57a
+
+java:S1128"MRemove this unused import 'org.springframework.security.core.Authentication'.(ñıÓ“8ó‰¿˜’2J$763026de-497e-43b3-8f04-8d99597578a0
+’
+java:S1128"ORemove this unused import 'org.springframework.security.core.GrantedAuthority'.(½Á±ÿ8„ÉÀë‘2J$c28e036f-f535-4c0b-bb14-523e12f45882
+
+java:S1128"VRemove this unused import 'org.springframework.security.core.context.SecurityContext'.(ØıŞşÿÿÿÿ8ô‰¿˜’2J$97a63ca9-6c24-490f-844f-fb7c261545f6
+Ÿ
+java:S1128"\Remove this unused import 'org.springframework.security.core.context.SecurityContextHolder'.(ŒÄæë8ô‰¿˜’2J$93a7f1e9-1512-4bf7-96b2-cc0cc478bdf7
+¢
+java:S1128"ZRemove this unused import 'org.springframework.security.core.context.SecurityContextImpl'.(¡¤ô úÿÿÿÿ8ÿ•Àë‘2J$f29d7f51-e0f7-43c0-a424-c06b6f49d18c
+’
+java:S1128"ORemove this unused import 'org.springframework.security.core.userdetails.User'.(–Ä€8ô‰¿˜’2J$70a99fc4-a997-46cd-8f2d-b43d64fa7fce
+`
+java:S1128	"CRemove this unused import 'org.springframework.stereotype.Service'.(¼º¡Ú8İ¢¿˜’2

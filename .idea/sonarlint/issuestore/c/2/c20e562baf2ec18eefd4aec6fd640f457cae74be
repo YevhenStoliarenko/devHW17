@@ -1,0 +1,21 @@
+
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(Å†’„8ºê¿òí2
+~	java:S125"<This block of commented-out lines of code should be removed.(æ≠û˙8ùÙøòí2J$a2a0a2fe-e275-4367-ac91-d14134a0779f
+]
+java:S1128";Remove this unused import 'lombok.RequiredArgsConstructor'.(—ÿé˙¯ˇˇˇˇ8¿ê¿òí2
+ê
+java:S1128"MRemove this unused import 'org.springframework.security.core.Authentication'.(Ò˝”ì8ùÙøòí2J$ed52f00e-bbfd-4f35-ba4c-36273e3cfd2f
+û
+java:S1128"VRemove this unused import 'org.springframework.security.core.context.SecurityContext'.(çÿ˝ﬁ˛ˇˇˇˇ8ûÙøòí2J$636d5b8a-fe1c-4ef2-8bae-9d7c1ba2e53d
+ü
+java:S1128"\Remove this unused import 'org.springframework.security.core.context.SecurityContextHolder'.(åƒÊÎ8ûÙøòí2J$fa564551-7553-40b3-a166-23e4ec48f296
+h
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Controller'.(¯äó÷˘ˇˇˇˇ8¿ê¿òí2
+í
+java:S1128"ORemove this unused import 'org.springframework.web.bind.annotation.GetMapping'.(á°âÿ8ûÙøòí2J$4571d948-010e-46c0-9770-ac7827cc61f0
+p
+java:S1128	"SRemove this unused import 'org.springframework.web.bind.annotation.RequestMapping'.(ˆªøÎ8¿ê¿òí2
+ë
+java:S1128
+"IRemove this unused import 'org.springframework.web.servlet.ModelAndView'.(«®ˇ‰˚ˇˇˇˇ8ûÙøòí2J$6d9e8829-6637-4e62-a3ce-0f39a5b5f5bb
